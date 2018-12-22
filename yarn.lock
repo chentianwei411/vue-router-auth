@@ -7399,6 +7399,11 @@ vary@~1.1.2:
   resolved "http://registry.npm.taobao.org/vary/download/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
+vee-validate@^2.1.4:
+  version "2.1.4"
+  resolved "http://registry.npm.taobao.org/vee-validate/download/vee-validate-2.1.4.tgz#dd86aab5e069e424236888a4618c2fa3c1db4386"
+  integrity sha1-3YaqteBp5CQjaIikYYwvo8HbQ4Y=
+
 vendors@^1.0.0:
   version "1.0.2"
   resolved "http://registry.npm.taobao.org/vendors/download/vendors-1.0.2.tgz#7fcb5eef9f5623b156bcea89ec37d63676f21801"

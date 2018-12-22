@@ -1,6 +1,12 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import VeeValidate from 'vee-validate'
+import Axios from 'axios'
+
+Vue.prototype.$http = Axios;
+
+Vue.use(VeeValidate);
 
 Vue.config.productionTip = false
 
